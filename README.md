@@ -1,0 +1,1 @@
+# comp_analys_titanic
